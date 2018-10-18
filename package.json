@@ -1,0 +1,23 @@
+{
+  "name": "firebase_Validation_Test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jdeje002/firebase_Validation_Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jdeje002/firebase_Validation_Test/issues"
+  },
+  "homepage": "https://github.com/Jdeje002/firebase_Validation_Test#readme",
+  "dependencies": {
+    "firebase": "^5.5.4"
+  }
+}
